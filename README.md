@@ -1,2 +1,2 @@
-encryption and decryption of basic ciphers in Python 
+Encryption and decryption of basic ciphers in Python 
   
